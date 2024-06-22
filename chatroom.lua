@@ -29,4 +29,9 @@ Handlers.add(
 -- the next challenge if create a token, well be using it to tokengate this chatroom. Do that, then you will impressed them
 -- their two things to build token,
 -- the blueprint - this is a predesigned template that helps you quickly build a token in ao
+-- .load-blueprint token (then enter usinc CLI)
+-- Handlers or Handlers.list so all list will show
+-- to check the your balance, use Action = "Balance" to check the over all imean the all user use Action = "Balances"
+
+
 -- the manual method - this is step by step guide to building a token in ao from scratch
